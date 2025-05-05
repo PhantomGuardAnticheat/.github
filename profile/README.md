@@ -20,10 +20,10 @@ We’re all about keeping FiveM servers safe and running smoothly. But beyond th
 
 ## 🛠️ **Our Projects**
 
-We love open-source—and we mean it. Everything we build is free to use and MIT-licensed, so anyone can dive in, learn, and contribute. Here’s a taste of what we’re working on:
+We love open-source and we mean it. Everything we build is free to use and MIT-licensed, so anyone can dive in, learn, and contribute. Here’s a taste of what we’re working on:
 
 - **Dev Tools**: Handy utilities and tools to make FiveM development smoother.
-- **Community-Powered**: Many of our ideas come straight from the community—we’re always up for collaboration.
+- **Community-Powered**: Many of our ideas come straight from the community we’re always up for collaboration.
 
 Browse our repos to see what’s cooking!
 
@@ -34,7 +34,7 @@ Browse our repos to see what’s cooking!
 We’re always excited to welcome new contributors. Here’s how you can get involved:
 
 1. **Dive into Our Repos**: See what sparks your interest.
-2. **Spot a Bug?**: Open an issue—we’re all ears.
+2. **Spot a Bug?**: Open an issuewe’re all ears.
 3. **Code Something Cool?**: Submit a pull request!
 4. **Join the Conversation**: Chat with us and others in the issues or discussion sections.
 
