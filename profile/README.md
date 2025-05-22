@@ -1,60 +1,60 @@
 # Welcome to **PhantomGuard** 👋
 
-Hey there! PhantomGuard is a standalone anti-cheat solution built specifically for FiveM servers. We’re here to help protect your server from hackers and cheaters—plain and simple. We also work on open-source side projects you’re welcome to check out and contribute to!
+Hey there! PhantomGuard is an open-source GitHub organization focused on creating security scripts and other useful resources for FiveM servers. Our mission is to support the FiveM community with high-quality, free, and collaborative tools.
 
 ---
 
 ## 🌟 **About Us**
 
 - **Who We Are**: PhantomGuard  
-- **What We Do**: We build a powerful, easy-to-use anti-cheat system for FiveM. On top of that, we create open-source tools to support the wider FiveM community.  
-- **Where We're From**: Proudly based in the Netherlands  
+- **What We Do**: We develop open-source security resources and a variety of FiveM resources to help server owners and developers.  
+- **Where We're From**: Proudly based in the Netherlands, with contributors from around the world  
 
 ---
 
 ## 🚀 **Our Mission**
 
-We’re all about keeping FiveM servers safe and running smoothly. But beyond that, we’re big believers in open-source collaboration. Whether you’re after top-notch server security or cool tools to make your dev life easier, we’ve got you covered.
+We’re dedicated to supporting the FiveM community by providing reliable, easy-to-use scripts and tools. We believe in open-source collaboration and welcome anyone interested in making FiveM servers safer and more enjoyable.
 
 ---
 
 ## 🛠️ **Our Projects**
 
-We love open-source and we mean it. Everything we build is free to use and MIT-licensed, so anyone can dive in, learn, and contribute. Here’s a taste of what we’re working on:
+Everything we build is open-source and MIT-licensed, so anyone can use, learn from, and contribute to our work. Here’s a glimpse of what we offer:
 
-- **Dev Tools**: Handy utilities and tools to make FiveM development smoother.
-- **Community-Powered**: Many of our ideas come straight from the community we’re always up for collaboration.
+- **Security Scripts**: Tools to help keep your FiveM server secure.
+- **Utility Scripts**: Enhancements and features to improve server management and gameplay.
+- **Community Driven**: Many of our projects are inspired by community feedback and contributions.
 
-Browse our repos to see what’s cooking!
+Check out our repositories to see what’s new!
 
 ---
 
 ## 🌈 **Want to Contribute?**
 
-We’re always excited to welcome new contributors. Here’s how you can get involved:
+We’re always looking for new contributors! Here’s how you can get involved:
 
-1. **Dive into Our Repos**: See what sparks your interest.
-2. **Spot a Bug?**: Open an issuewe’re all ears.
-3. **Code Something Cool?**: Submit a pull request!
-4. **Join the Conversation**: Chat with us and others in the issues or discussion sections.
+1. **Explore Our Repos**: Find a project that interests you.
+2. **Report Issues**: Found a bug or have a suggestion? Open an issue!
+3. **Submit Code**: Create a pull request with your improvements.
+4. **Join the Discussion**: Connect with us and others in issues or discussions.
 
 ---
 
 ## 📚 **Resources**
 
 - **Docs**: [Coming Soon]  
-- **Need Help?**: Hit us up on [Discord](https://discord.gg/WB5RUz7RgU)  
+- **Need Help?**: Reach out on [Discord](https://discord.gg/WB5RUz7RgU)  
 - **Website**: [phantomguard.eu](https://phantomguard.eu)  
 
 ---
 
 ## 🍿 **Fun Facts**
 
-- PhantomGuard started from a love of building fair, secure FiveM servers.
-- We may be based in the Netherlands, but our tools are used by servers around the world.
+- PhantomGuard began as an anti-cheat, but we didn't quite achieve that so we are freely helping FiveM server owners.
 
 ---
 
 ## 🧙 **Join the Community**
 
-Whether you're securing your server or building something awesome, you're welcome here. Explore, contribute, and be part of making FiveM a better place with PhantomGuard.
+Whether you’re looking to secure your server, add new features, or contribute code, you’re welcome here. Explore, collaborate, and help make FiveM better with PhantomGuard.
